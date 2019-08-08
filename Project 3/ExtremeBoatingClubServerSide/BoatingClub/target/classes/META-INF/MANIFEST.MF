@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Boating Club
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Nick
+Implementation-Vendor-Id: com.boating
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/BoatingClub
+Created-By: Maven Integration for Eclipse
+
